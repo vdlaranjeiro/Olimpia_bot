@@ -3,4 +3,4 @@ A Olimpia Bot é um bot do Telegram projetado para fornecer informações sobre 
 <br>
 O projeto foi desenvolvido durante as aulas de **Interação Humano Computador**, ministradas pelo professor **Giuliano Bertoti**.
 <br>
-Desenvolvido por: [Vinicius](https://github.com/noo-e), [Renan](https://github.com/Renan-Neves) e [enter link description here](https://github.com/MuriloLima03).
+Desenvolvido por: [Vinicius](https://github.com/noo-e), [Renan](https://github.com/Renan-Neves) e [Murilo](https://github.com/MuriloLima03).
